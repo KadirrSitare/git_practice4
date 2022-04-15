@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class TimeMachine {
+public class TimeMachine {
+
+    //step1
+
 }

@@ -6,6 +6,7 @@ public class BranchesAndMerges {
 
         System.out.println("feature-d");
         System.out.println("step10");
+        //test ended
     }
 
     //Step1

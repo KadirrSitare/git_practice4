@@ -12,7 +12,7 @@ public class FeatureE {
     //this is my changes from GitHub.com
 
     //this is my changes from Local IntelliJ
-    //Conflict from IntelliJ
+    //conflict by gitHub
 
 
 }

@@ -8,6 +8,8 @@ public class FeatureE {
     //hello
 
     //this is my final result
+    
+    //this is my changes from GitHub.com
 
     //this is my changes from Local IntelliJ
 

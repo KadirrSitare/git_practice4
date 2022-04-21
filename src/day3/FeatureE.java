@@ -9,6 +9,6 @@ public class FeatureE {
 
     //this is my final result
     
-    //this is the changes from GitHub.com
+    //this is my changes from GitHub.com
 
 }
